@@ -1,0 +1,9 @@
+name: EzRestart
+version: 1.0
+main: com.example.ezrestart.EzRestart
+description: Reloads server/plugins/config without kicking players
+api-version: '1.21.8'
+commands:
+  ezrestart:
+    description: Soft-reload the server without disconnecting players
+    usage: /ezrestart
