@@ -10,6 +10,7 @@ repositories {
 
 dependencies {
     paperweight.paperDevBundle("1.21.8-R0.1-SNAPSHOT")
+    implementation("com.github.legendmarkosgr-boop:ezrestart0:Tag")
 }
 
 java {
